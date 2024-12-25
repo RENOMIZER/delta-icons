@@ -6363,6 +6363,7 @@
 	<item component="ComponentInfo{com.mados.madcamera/com.android.camera.CameraLauncher}" drawable="camera" />
 	<item component="ComponentInfo{com.maelchiotti.localmaterialnotes/com.maelchiotti.localmaterialnotes.MainActivity}" drawable="local_material_notes" />
 	<item component="ComponentInfo{com.maertsno.m/com.maertsno.m.ui.main.MainActivity}" drawable="onstream" />
+	<item component="ComponentInfo{com.mages.steinsgate/com.mages.steinsgate.ExtensionDownloaderActivity}" drawable="steins_gate" />
 	<item component="ComponentInfo{com.magicbehaviour.unicardsige/crc64e3927821d72ee81a.SplashScreen}" drawable="sige" />
 	<item component="ComponentInfo{com.magicposernew/com.magicposernew.MainActivity}" drawable="magic_poser" />
 	<item component="ComponentInfo{com.magicv.airbrush/com.magicv.airbrush.common.StartupActivity}" drawable="airbrush" />
@@ -15132,6 +15133,7 @@
 	<item component="ComponentInfo{ru.dnevnik.app/ru.dnevnik.app.ui.login.view.SplashActivity}" drawable="dnevnik" />
 	<item component="ComponentInfo{ru.dnevnik.app/ru.dnevnik.app.ui.main.general.MainActivity}" drawable="dnevnik" />
 	<item component="ComponentInfo{ru.dns.shop.android/ru.dns.shop.HostActivity}" drawable="dns_shop" />
+	<item component="ComponentInfo{ru.dodopizza.app/ru.dodopizza.app.presentation.main.MainActivity}" drawable="dodo_pizza" />
 	<item component="ComponentInfo{ru.dodopizza.app/ru.dodopizza.app.presentation.splash.SplashActivity}" drawable="dodo_pizza" />
 	<item component="ComponentInfo{ru.dpd.recipient/ru.dpd.features.launch.AppActivity}" drawable="dpd" />
 	<item component="ComponentInfo{ru.drom.baza.android.app/ru.farpost.android.app.ui.activity.MainActivity}" drawable="drom_baza" />
